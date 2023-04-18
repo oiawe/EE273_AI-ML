@@ -10,4 +10,4 @@ Descriptions, reports and codes for two projects in this lesson.
 This is an binary classification problem that require a model to identify whether the given data implies malignant canner or not. Two sets of training data have been given along with test ones. There should be at least two kinds of trained model (KNN and logisitic regression) shown in final report. **Things become difficult** when it comes to the second dataset, where the **rate** of two kinds data provided are far from 1, approximately being *4:1*. So the core of the project is to find a way out that can properly fit this unbalanced situation.
 
 ## Project2
-This is multi-classification problem based on collected ECG() signal 
+This is multi-classification problem based on collected ECG(electrocardiogram) signal fragments. Totally 8528 pieces of signal are provided as the dataset. Four kinds of deep learning methods(MLP,CNN,RNN,RNN with attention) are required in this project. All tricks, including model construct and rebuild, data process, are allowed and expected to be used in this project to improve F1 scores. Additionally, comparison among four kinds of models are also in need.
